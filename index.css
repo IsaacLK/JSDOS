@@ -1,1 +1,20 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Merriweather&family=Montserrat:wght@200&display=swap');
+body {
+  background: rgb(199,199,199);
+background: -moz-linear-gradient(310deg, rgba(199,199,199,1) 7%, rgba(255,255,255,1) 69%, rgba(255,255,255,1) 79%);
+background: -webkit-linear-gradient(310deg, rgba(199,199,199,1) 7%, rgba(255,255,255,1) 69%, rgba(255,255,255,1) 79%);
+background: linear-gradient(310deg, rgba(199,199,199,1) 7%, rgba(255,255,255,1) 69%, rgba(255,255,255,1) 79%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c7c7c7",endColorstr="#ffffff",GradientType=1);
+height:100vh;
+display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+.div1{
+}
+p{
+font-family: 'Montserrat', sans-serif;
+}
