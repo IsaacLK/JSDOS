@@ -1,2 +1,2 @@
 # JSDOS
-DOS attack in JS.
+DOS/DDOS attack in JS.
